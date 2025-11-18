@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Vesper Modern",
+  "name": "Modern Vesper",
   "author": "Caio Landgraf",
   "themes": [
     {
-      "name": "Vesper Modern",
+      "name": "Modern Vesper",
       "appearance": "dark",
       "style": {
         "border": "#101010",
