@@ -1,6 +1,6 @@
 id = "modern-vesper"
 name = "Moderns Vesper"
-version = "1.0.0"
+version = "1.0.3"
 schema_version = 1
 description = "Modified peppermint and orange flavored dark theme."
 repository = "https://github.com/caiolandgraf/modern-vesper-zed"
